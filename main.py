@@ -1,16 +1,19 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+8 to toggle the breakpoint.
+def sum_range(n, step):
+    if n <= 0:
+        return 0
+    result = sum_range(n - step, step)
+    return n + result
 
 
-# Press the green button in the gutter to run the script.
+def factorial(n):
+    if n == 0:
+        return 1
+    n_minus_1 = factorial(n - 1)
+    return n * n_minus_1
+
+
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    print(factorial(5))
+    # print(sum_range(5, 1))
+    # print(sum_range(5, 9))
+    # print(sum_range(8, 2))
