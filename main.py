@@ -5,7 +5,7 @@ def sum_range(n, step):
     return n + result
 
 
-def factorial(n):
+def factorial(n: str | int):
     if n == 0:
         return 1
     n_minus_1 = factorial(n - 1)
