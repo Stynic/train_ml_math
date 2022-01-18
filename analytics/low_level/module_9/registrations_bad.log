@@ -1,0 +1,1407 @@
+Пенг42 euxtjquwo@mail.ru 32; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Пенг42'} 
+Владимир 8 gumxfigvam; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '8'} 
+Джамшут tyyolvkn@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут tyyolvkn@ya.ru 7
+Дмитрий sdw@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий sdw@gmail.com 101
+Ольга kbzjth 13; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'kbzjth'} 
+Муммий ukqjpqgnst@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий ukqjpqgnst@gmail.com 99
+Джигурда arlmdlrn@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда arlmdlrn@mail.ru 7
+Волочкова tgnrnmo@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова tgnrnmo@mail.ru 9
+Ярослав42 ffcbzt@gmail.com 74; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав42'} 
+Ольга zc@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга zc@gmail.com 99
+Яочуан xi@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан xi@mail.ru 100
+Земфира jqwpvljxg@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира jqwpvljxg@mail.ru 7
+Гнойный666 zrjzfsdyqr@mail.ru 95; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Гнойный666'} 
+Ярослав 63 jlygzs@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '63'} 
+Джамшут lsruraertfigvam 13; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'lsruraertfigvam'} 
+Яочуан wmzvcqqyve@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан wmzvcqqyve@ya.ru 100
+Земфира42 rwkzbyao@gmail.com 68; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Земфира42'} 
+Ли iahmkzj@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли iahmkzj@ya.ru 8
+Пенг666 ms@ya.ru 93; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Пенг666'} 
+Яочуан vqmac@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан vqmac@mail.ru 10
+Чонгкун ngdbn@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун ngdbn@ya.ru 101
+41 wks@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: 41 wks@gmail.com
+Ли by@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли by@gmail.com 10
+Тролль oprzfut@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль oprzfut@ya.ru 7
+Михаил yi@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: Михаил yi@mail.ru
+Ольга666 utlpnwgik@ya.ru 68; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга666'} 
+Хенг 96 brxe@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '96'} 
+Ольга ydyl@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга ydyl@mail.ru 99
+Дмитрий zraliqjrtm@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий zraliqjrtm@gmail.com 7
+Дмитрий tubdfigvam 47; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'tubdfigvam'} 
+Яочуан cgznlvna 98; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'cgznlvna'} 
+Нагиев fflxrbzszh@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев fflxrbzszh@ya.ru 101
+Геннадий gr@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий gr@mail.ru 8
+wntxmmh@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: wntxmmh@mail.ru
+85; НЕ присутсвуют все три поля: ValueError; entered data: 85
+Ли666 xxqskfbpvd@gmail.com 14; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли666'} 
+Яочуан666 gmak@mail.ru 57; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Яочуан666'} 
+Джигурда hmyhkidqn@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда hmyhkidqn@ya.ru 8
+Гнойный42 sbhrryli@gmail.com 29; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Гнойный42'} 
+Ли42 ktcrzpnp@ya.ru 29; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли42'} 
+Хенг yefrwjcttf 11; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'yefrwjcttf'} 
+Анна666 kko@gmail.com 81; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна666'} 
+Муммий fzzqyxvy@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий fzzqyxvy@ya.ru 99
+Тролль666 nsocnzas.mail.ru 82; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Тролль666'} 
+Земфира 86; НЕ присутсвуют все три поля: ValueError; entered data: Земфира 86
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Нагиев qwtqnx@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев qwtqnx@ya.ru 8
+Дмитрий qh@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий qh@mail.ru 7
+Анна ljaznlcz@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна ljaznlcz@mail.ru 7
+Земфира zpfvcvb 97; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'zpfvcvb'} 
+Ван vbfigvam 93; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'vbfigvam'} 
+Ван dlvxhrcf 22; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'dlvxhrcf'} 
+Яочуан zxpkopuuwt@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан zxpkopuuwt@ya.ru 99
+Геннадий 12 lrznx@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '12'} 
+48 gfedb@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: 48 gfedb@mail.ru
+Пенг libyhk@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: Пенг libyhk@mail.ru
+Анна42 pcjyji@mail.ru 52; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна42'} 
+Ольга mfkcpzj@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга mfkcpzj@ya.ru 99
+Земфира dcoooql@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира dcoooql@mail.ru 99
+Земфира cfsycaqk@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира cfsycaqk@gmail.com 9
+Земфира xygxmdh@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира xygxmdh@mail.ru 8
+Бузова hvsubilrgc@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова hvsubilrgc@mail.ru 10
+Хенг 97 mpqzthnd@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '97'} 
+Сянцзян buku@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян buku@mail.ru 9
+Пенг kdcyiitl@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг kdcyiitl@mail.ru 9
+Гнойный wgmbkof@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный wgmbkof@gmail.com 100
+Волочкова42 efe@ya.ru 79; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Волочкова42'} 
+64; НЕ присутсвуют все три поля: ValueError; entered data: 64
+Нагиев666 txccjjszt@ya.ru 17; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев666'} 
+Земфира 15 rttzfh@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '15'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ли dyhelbnsiefigvam 31; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'dyhelbnsiefigvam'} 
+Дмитрий eyl@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий eyl@gmail.com 99
+Ольга 65 fl@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '65'} 
+Муммий zf@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий zf@mail.ru 99
+Артём elf@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём elf@mail.ru 101
+Бузова42 kcysx@mail.ru 25; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Бузова42'} 
+Бузова gqt@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова gqt@ya.ru 8
+Пенг lmymg@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг lmymg@ya.ru 100
+54 dsohvsqen@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: 54 dsohvsqen@ya.ru
+Михаил vbep@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил vbep@gmail.com 10
+Владимир zvmklam 15; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'zvmklam'} 
+Мария fujmt@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария fujmt@gmail.com 99
+91 rvgzbnl@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: 91 rvgzbnl@gmail.com
+Ольга dvbnqqtcd@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга dvbnqqtcd@ya.ru 7
+Геннадий kvpbwddtk@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий kvpbwddtk@mail.ru 101
+Нагиев 35 txgfbp@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '35'} 
+Анна666 ykjlvew@gmail.com 85; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна666'} 
+Пенг gmluno@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг gmluno@gmail.com 10
+Ольга42 wbdv@gmail.com 42; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга42'} 
+Ольга42 mgjmyuavwj@mail.ru 25; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга42'} 
+Муммий cwxiewt@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий cwxiewt@gmail.com 101
+Ли eowsjrz@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли eowsjrz@ya.ru 7
+Артём qqlssl@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём qqlssl@gmail.com 9
+Сянцзян jxognvpf@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян jxognvpf@mail.ru 100
+Владимир; НЕ присутсвуют все три поля: ValueError; entered data: Владимир
+Джамшут redwfigvam 60; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'redwfigvam'} 
+Тролль!!!!1 tnkugfise@ya.ru 9; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Тролль!!!!1'} 
+Ярослав!!!!1 mhfkmlfigvam 35; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав!!!!1'} 
+Земфира lgcrl 83; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'lgcrl'} 
+Мария plogsfhjr@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария plogsfhjr@gmail.com 7
+Джигурда666 hirbb@ya.ru 14; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда666'} 
+37; НЕ присутсвуют все три поля: ValueError; entered data: 37
+Владимир; НЕ присутсвуют все три поля: ValueError; entered data: Владимир
+Волочкова tuufq@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова tuufq@ya.ru 99
+Ярослав zektqtg@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав zektqtg@ya.ru 100
+Чонгкун tarrec@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун tarrec@ya.ru 99
+Ли fnz@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли fnz@ya.ru 7
+Ярослав jjeowwmen 75; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'jjeowwmen'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Пенг qlxws@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг qlxws@gmail.com 7
+Геннадий!!!!1 oqkolaurl@mail.ru 16; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий!!!!1'} 
+Владимир zwmnwxc 69; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'zwmnwxc'} 
+Джигурда xoq@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда xoq@gmail.com 7
+Артём ucgzuvud@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём ucgzuvud@gmail.com 9
+Земфира 33 xavvzbe@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '33'} 
+Гнойный666 dhqinljcm@ya.ru 86; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Гнойный666'} 
+Мария obv@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария obv@gmail.com 99
+Чонгкун ydnpabs@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун ydnpabs@ya.ru 99
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Степан doddcyqspo 86; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'doddcyqspo'} 
+Пенг lfjzkftwfn@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг lfjzkftwfn@ya.ru 8
+Муммий kwsdchxc@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий kwsdchxc@mail.ru 8
+Пенг ycvfigvam 91; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ycvfigvam'} 
+Мария uslq@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария uslq@ya.ru 9
+Мария666 ax@ya.ru 10; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Мария666'} 
+Джигурда ly@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда ly@gmail.com 99
+Ольга666 xhpowfavv@mail.ru 16; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга666'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Степан btscwz@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан btscwz@mail.ru 101
+51; НЕ присутсвуют все три поля: ValueError; entered data: 51
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Чонгкун jiqwzjx 63; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'jiqwzjx'} 
+Яочуан mtgjp@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан mtgjp@mail.ru 101
+Ольга aorfimupuq@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга aorfimupuq@ya.ru 100
+Равшан qwj@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан qwj@gmail.com 101
+Равшан!!!!1 ee@gmail.com 57; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан!!!!1'} 
+Бузова aquuftkrh@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: Бузова aquuftkrh@gmail.com
+Геннадий 36 nfsxqtabzt@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '36'} 
+Михаил hidos@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил hidos@gmail.com 101
+Ли teeghrgwtb@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли teeghrgwtb@mail.ru 10
+Бузова roj@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова roj@gmail.com 10
+Михаил666 pvabwwymp@gmail.com 88; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил666'} 
+Нагиев666 xwnmfigvam 59; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев666'} 
+Муммий!!!!1 tsfowgyt@ya.ru 89; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий!!!!1'} 
+Равшан666 evayobrerz@mail.ru 52; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан666'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Нагиев 72 crek@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '72'} 
+Тролль yauqsnry@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль yauqsnry@gmail.com 9
+Сянцзян666 phdjniunaf@ya.ru 8; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Сянцзян666'} 
+Сянцзян nd@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян nd@gmail.com 10
+Хенг yneo@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг yneo@mail.ru 8
+Ли666 ga@gmail.com 46; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли666'} 
+Анна wkguvadej 8; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'wkguvadej'} 
+Равшан42 qrmfi@mail.ru 29; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан42'} 
+Волочкова 42 iqqkfxew@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '42'} 
+Ольга42 eyplplbdvp@gmail.com 28; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга42'} 
+Земфира fnlsuuge 48; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'fnlsuuge'} 
+Ли znfhr 44; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'znfhr'} 
+Гнойный 48 iwli@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '48'} 
+Ли atqhh.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли atqhh.ru 99
+Анна!!!!1 bqktw@gmail.com 65; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна!!!!1'} 
+Чехова rigd@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова rigd@ya.ru 7
+98 xp@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: 98 xp@mail.ru
+Земфира 36 nffdhs@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '36'} 
+Муммий 79; НЕ присутсвуют все три поля: ValueError; entered data: Муммий 79
+Геннадий twnu@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий twnu@gmail.com 10
+Волочкова42 toijyvt@gmail.com 7; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Волочкова42'} 
+Сянцзян kotbwuibd 39; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'kotbwuibd'} 
+Нагиев zoz@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев zoz@mail.ru 9
+13 eqghsyv@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: 13 eqghsyv@ya.ru
+Геннадий ogn@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий ogn@mail.ru 9
+Анна lyrzfigvam 50; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'lyrzfigvam'} 
+Ван!!!!1 dekbmeygdv@gmail.com 17; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ван!!!!1'} 
+Артём 62 xaxwwtnhm; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '62'} 
+Ольга uz@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга uz@mail.ru 101
+Нагиев opru@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев opru@mail.ru 100
+Равшан!!!!1 gfaefwi@gmail.com 79; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан!!!!1'} 
+65 iptmugr@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: 65 iptmugr@mail.ru
+Хенг; НЕ присутсвуют все три поля: ValueError; entered data: Хенг
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ли666 lyfmfp@ya.ru 96; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли666'} 
+Нагиев42 ym@mail.ru 27; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев42'} 
+Анна hffigvam 43; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hffigvam'} 
+Ван; НЕ присутсвуют все три поля: ValueError; entered data: Ван
+Ярослав 63 sexveg@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '63'} 
+Ольга!!!!1 cjujuc@ya.ru 35; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга!!!!1'} 
+Пенг loyfqih@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг loyfqih@mail.ru 7
+Равшан nkbkkxutvtfigvam 57; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'nkbkkxutvtfigvam'} 
+Хенг dnignui@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг dnignui@ya.ru 99
+Тролль; НЕ присутсвуют все три поля: ValueError; entered data: Тролль
+Дмитрий gdpplo@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий gdpplo@mail.ru 9
+Яочуан ulwxku@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан ulwxku@gmail.com 8
+Дмитрий clolirhm@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий clolirhm@mail.ru 99
+Ван rtndt 79; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'rtndt'} 
+Ярослав qlqsfigvam 70; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'qlqsfigvam'} 
+Мария 72 dgsvr@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '72'} 
+Волочкова666 fiyzyx@mail.ru 47; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Волочкова666'} 
+Артём hdgpkrw@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём hdgpkrw@ya.ru 100
+Джамшут666 bkuptdyvdz@ya.ru 61; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джамшут666'} 
+Ли ofkclep@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли ofkclep@mail.ru 9
+Ольга666 mfjyl@mail.ru 22; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга666'} 
+Нагиев vqqufigvam 31; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'vqqufigvam'} 
+Муммий!!!!1 qpodw@mail.ru 32; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий!!!!1'} 
+Владимир cnvfq@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир cnvfq@gmail.com 7
+Джигурда!!!!1 zrhuigzsnf@mail.ru 34; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда!!!!1'} 
+Джигурда orcpss@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда orcpss@ya.ru 100
+Ли boguqbuu@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли boguqbuu@gmail.com 7
+Мария mspjbfigvam 36; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'mspjbfigvam'} 
+Сянцзян; НЕ присутсвуют все три поля: ValueError; entered data: Сянцзян
+Равшан mdokjjrnvg@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан mdokjjrnvg@mail.ru 7
+Мария oig 76; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'oig'} 
+Волочкова oe@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова oe@gmail.com 101
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ольга vocfyjidrb 20; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'vocfyjidrb'} 
+Тролль vrqgob@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль vrqgob@mail.ru 8
+Ли!!!!1 zhw@mail.ru 10; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли!!!!1'} 
+Хенг666 agjhusbkoe@gmail.com 33; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг666'} 
+Равшан42 ncmjadmmh@ya.ru 95; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан42'} 
+58 xomfg@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: 58 xomfg@mail.ru
+Нагиев42 wara@mail.ru 24; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев42'} 
+Артём fyypnlxwa@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём fyypnlxwa@mail.ru 8
+Анна uepiyqy@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна uepiyqy@mail.ru 101
+Ярослав hhirwcetv 80; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hhirwcetv'} 
+Пенг mkuiungv@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг mkuiungv@mail.ru 9
+Михаил666 iggl@ya.ru 78; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил666'} 
+Пенг fcj@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг fcj@gmail.com 101
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ольга!!!!1 lpqimz@mail.ru 72; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга!!!!1'} 
+Дмитрий qaqiiakage@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий qaqiiakage@gmail.com 10
+Волочкова uajtxxoc@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова uajtxxoc@gmail.com 100
+Анна mtzg@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна mtzg@gmail.com 99
+31; НЕ присутсвуют все три поля: ValueError; entered data: 31
+Чонгкун sumxyafrk@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун sumxyafrk@ya.ru 99
+Ван yrz.mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван yrz.mail.ru 101
+Геннадий jlonbdf@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: Геннадий jlonbdf@mail.ru
+Михаил!!!!1 dicke@ya.ru 97; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил!!!!1'} 
+Владимир xmwfayrc@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир xmwfayrc@ya.ru 8
+Ли ganhrs@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли ganhrs@ya.ru 99
+Яочуан bs@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан bs@mail.ru 7
+Михаил oquvh@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил oquvh@ya.ru 10
+Чехова mtmfn@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова mtmfn@gmail.com 99
+Ярослав; НЕ присутсвуют все три поля: ValueError; entered data: Ярослав
+Анна42 zcs@mail.ru 42; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна42'} 
+Муммий 90; НЕ присутсвуют все три поля: ValueError; entered data: Муммий 90
+Анна42 vhhwftfcg@mail.ru 53; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна42'} 
+Степан jjzi@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан jjzi@mail.ru 7
+Михаил hflxtrim@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил hflxtrim@ya.ru 10
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Нагиев666 wteoex@mail.ru 9; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев666'} 
+81 nett@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: 81 nett@gmail.com
+Дмитрий xb@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий xb@ya.ru 100
+Муммий uiafigvam 62; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'uiafigvam'} 
+Хенг!!!!1 osyznzo@ya.ru 67; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг!!!!1'} 
+Сянцзян666 xregmycxtn@ya.ru 95; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Сянцзян666'} 
+Ли lztfjuh 22; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'lztfjuh'} 
+Яочуан fwrlkojk@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан fwrlkojk@mail.ru 10
+Геннадий 94 xhuwmic@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '94'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Гнойный udxi@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный udxi@gmail.com 101
+Джигурда wjxpnf@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда wjxpnf@ya.ru 10
+Геннадий dqqdlas@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий dqqdlas@mail.ru 99
+tq@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: tq@mail.ru
+Ольга ct@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга ct@mail.ru 100
+Чонгкун42 qhedc@ya.ru 59; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чонгкун42'} 
+Геннадий42 aespu@mail.ru 97; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий42'} 
+Джигурда rn@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда rn@gmail.com 8
+Тролль; НЕ присутсвуют все три поля: ValueError; entered data: Тролль
+Артём uhhdaycfigvam 18; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'uhhdaycfigvam'} 
+Дмитрий cbtewsu 100; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'cbtewsu'} 
+88 owmogsfi@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: 88 owmogsfi@ya.ru
+Мария 8 yg@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '8'} 
+Чехова lidxddaoqw@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова lidxddaoqw@mail.ru 100
+Чонгкун tylquyseiz@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун tylquyseiz@gmail.com 100
+Бузова iok@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова iok@gmail.com 8
+Чонгкун; НЕ присутсвуют все три поля: ValueError; entered data: Чонгкун
+Земфира; НЕ присутсвуют все три поля: ValueError; entered data: Земфира
+Геннадий zwf@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий zwf@gmail.com 100
+Ольга yqvkh@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга yqvkh@ya.ru 99
+Нагиев 85 bzwdxvy@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '85'} 
+Ли dgqm@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли dgqm@mail.ru 8
+Мария ontqgx@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария ontqgx@mail.ru 100
+Мария deyzithaw@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария deyzithaw@mail.ru 8
+Хенг azotd@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг azotd@mail.ru 99
+Ван sadolr@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван sadolr@ya.ru 101
+Волочкова hciphh@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова hciphh@ya.ru 10
+Степан kf@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан kf@ya.ru 8
+Равшан wgusm@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан wgusm@gmail.com 9
+Мария idson@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария idson@ya.ru 10
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Земфира uwdvnli@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира uwdvnli@mail.ru 8
+Михаил pq@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил pq@mail.ru 10
+16; НЕ присутсвуют все три поля: ValueError; entered data: 16
+Хенг nezoeeswu@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг nezoeeswu@gmail.com 99
+Артём42 su@ya.ru 26; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Артём42'} 
+86; НЕ присутсвуют все три поля: ValueError; entered data: 86
+Хенг edqh 20; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'edqh'} 
+Чехова gszswxmd@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова gszswxmd@gmail.com 99
+Анна 99 tqdylq@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '99'} 
+Гнойный mvjcfigvam 52; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'mvjcfigvam'} 
+Геннадий666 baq@gmail.com 74; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий666'} 
+Гнойный esd 9; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'esd'} 
+Равшан666 tokg@gmail.com 25; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан666'} 
+42; НЕ присутсвуют все три поля: ValueError; entered data: 42
+Ли aeonyiu@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли aeonyiu@mail.ru 9
+Яочуан si@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан si@gmail.com 7
+Степан!!!!1 dvac@gmail.com 94; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Степан!!!!1'} 
+Дмитрий 82 pqlmawawd@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '82'} 
+Тролль sjxjgkmlq@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль sjxjgkmlq@ya.ru 8
+Мария!!!!1 xl@mail.ru 52; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Мария!!!!1'} 
+Дмитрий42 fbllfxosnn@mail.ru 94; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Дмитрий42'} 
+Ли gnir@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли gnir@gmail.com 7
+Ольга ha@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга ha@ya.ru 9
+Геннадий apttruc@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: Геннадий apttruc@gmail.com
+Хенг gjmkdp@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг gjmkdp@gmail.com 9
+Джигурда hsdu@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда hsdu@ya.ru 101
+Гнойный666 qlv@gmail.com 12; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Гнойный666'} 
+Муммий pidjfftm@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий pidjfftm@mail.ru 8
+Анна gprqzkglrj@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна gprqzkglrj@mail.ru 99
+Артём jpi@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём jpi@gmail.com 10
+Ярослав!!!!1 wu@gmail.com 31; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав!!!!1'} 
+Ярослав42 xec@gmail.com 62; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав42'} 
+Джамшут hpzoktyo@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут hpzoktyo@gmail.com 101
+Ольга 36 chh@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '36'} 
+14; НЕ присутсвуют все три поля: ValueError; entered data: 14
+ibnwoguc@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: ibnwoguc@mail.ru
+Ли nacdtxienb@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли nacdtxienb@mail.ru 100
+Анна cxkqato@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна cxkqato@mail.ru 8
+Чехова42 owayi@mail.ru 14; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чехова42'} 
+Чонгкун jrhsmdgbx@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун jrhsmdgbx@gmail.com 7
+Артём usvkghp@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём usvkghp@gmail.com 10
+Ярослав qo@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав qo@mail.ru 9
+Анна sba@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна sba@ya.ru 101
+Джамшут666 cckguhj@mail.ru 31; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джамшут666'} 
+Бузова uppchfkyju@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова uppchfkyju@gmail.com 9
+Ярослав!!!!1 jf@ya.ru 62; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав!!!!1'} 
+Геннадий hjfdi.mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий hjfdi.mail.ru 7
+Гнойный wr@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный wr@mail.ru 7
+Бузова gmm@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова gmm@ya.ru 7
+Геннадий abtk 75; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'abtk'} 
+Ярослав666 jeh 63; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав666'} 
+Михаил42 kzcp@mail.ru 78; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил42'} 
+Артём mcsdd@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём mcsdd@gmail.com 10
+Степан uftoobjxk@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан uftoobjxk@mail.ru 8
+Ли xfhjyoju@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли xfhjyoju@gmail.com 100
+Джигурда jxvtxvxwsfigvam 95; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'jxvtxvxwsfigvam'} 
+Ли666 bqmybd@mail.ru 75; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли666'} 
+Дмитрий666 ezjv@gmail.com 21; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Дмитрий666'} 
+Ван iaphxaoo@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван iaphxaoo@gmail.com 8
+Чонгкун mhkhqjhmx@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун mhkhqjhmx@gmail.com 7
+Яочуан ygdqxja@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан ygdqxja@mail.ru 100
+Джамшут666 rndlsfo@gmail.com 12; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джамшут666'} 
+Пенг yb@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг yb@mail.ru 99
+Дмитрий dwymn 20; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'dwymn'} 
+Ярослав!!!!1 suldafigvam 92; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав!!!!1'} 
+Михаил hmjiuuvvhufigvam 32; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hmjiuuvvhufigvam'} 
+99 xyehgwzuu@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: 99 xyehgwzuu@gmail.com
+66; НЕ присутсвуют все три поля: ValueError; entered data: 66
+Чонгкун mhycl@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун mhycl@gmail.com 9
+Пенг vyoik@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг vyoik@ya.ru 100
+Владимир rinftidh@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир rinftidh@ya.ru 101
+Муммий666 pd@mail.ru 87; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий666'} 
+Мария dpbpily@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария dpbpily@gmail.com 9
+Джигурда vlqaawmal@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда vlqaawmal@mail.ru 10
+yv@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: yv@mail.ru
+Чонгкун umgjrhyuk@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун umgjrhyuk@mail.ru 99
+Владимир zrignrbba@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир zrignrbba@gmail.com 8
+Яочуан vi.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан vi.ru 101
+Ли42 nasa@gmail.com 20; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли42'} 
+Мария ixhn@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария ixhn@ya.ru 100
+Дмитрий bjstwgewca@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий bjstwgewca@ya.ru 99
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Анна 85 elchvgwknw@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '85'} 
+Бузова igr@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова igr@ya.ru 8
+Яочуан ksufmcroha@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан ksufmcroha@gmail.com 101
+Хенг ngpoldldwl@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг ngpoldldwl@ya.ru 100
+Чонгкун gq@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун gq@ya.ru 7
+89 qhl@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: 89 qhl@mail.ru
+Яочуан iuth@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан iuth@ya.ru 8
+Равшан 39 icuzo@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '39'} 
+Ольга666 sigmjeofjf@gmail.com 17; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга666'} 
+Мария yjuzmr@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария yjuzmr@gmail.com 9
+Волочкова666 cgoivrmofg@gmail.com 81; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Волочкова666'} 
+Равшан666 nyx@ya.ru 60; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан666'} 
+Дмитрий xback@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий xback@mail.ru 7
+Ли lc@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли lc@ya.ru 9
+Земфира plslxirp@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира plslxirp@gmail.com 101
+Чехова ssdpstvvxi@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова ssdpstvvxi@gmail.com 7
+Ли pcnvxsf@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли pcnvxsf@ya.ru 100
+Джамшут666 bu@ya.ru 54; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джамшут666'} 
+Джигурда ssecik@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда ssecik@ya.ru 7
+Михаил!!!!1 ayfunbjvq@mail.ru 91; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил!!!!1'} 
+Степан 36 caye@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '36'} 
+Дмитрий eyogojynek 26; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'eyogojynek'} 
+Степан sxgmmbj@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан sxgmmbj@mail.ru 10
+Чехова jtvxk 12; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'jtvxk'} 
+oy@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: oy@gmail.com
+Артём iwkukwzt@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём iwkukwzt@ya.ru 8
+Волочкова kvy@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова kvy@ya.ru 101
+Сянцзян dgxpv 82; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'dgxpv'} 
+Владимир42 ffkixmon@mail.ru 34; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Владимир42'} 
+Равшан rsy@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан rsy@gmail.com 100
+Степан 23; НЕ присутсвуют все три поля: ValueError; entered data: Степан 23
+Тролль mnycx@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль mnycx@gmail.com 101
+Чехова42 lxfu@gmail.com 45; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чехова42'} 
+Ольга42 thhtgzm@ya.ru 45; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга42'} 
+Муммий42 mdtaqsikjf@ya.ru 12; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий42'} 
+Хенг crhsca@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг crhsca@ya.ru 9
+Джамшут phlpzwfffigvam 33; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'phlpzwfffigvam'} 
+Ярослав; НЕ присутсвуют все три поля: ValueError; entered data: Ярослав
+Пенг eauuskzz@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг eauuskzz@mail.ru 99
+Геннадий cppmo@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий cppmo@mail.ru 8
+Степан puij@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан puij@ya.ru 99
+Равшан gqiymeln@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан gqiymeln@gmail.com 99
+Земфира!!!!1 efz@mail.ru 45; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Земфира!!!!1'} 
+Ольга 86 zpawzdafft@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '86'} 
+Михаил rtisohbr@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил rtisohbr@mail.ru 101
+Бузова42 riltaol@gmail.com 31; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Бузова42'} 
+Геннадий 73 jruoid@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '73'} 
+xti@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: xti@ya.ru
+Михаил nktbmhacha@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил nktbmhacha@ya.ru 101
+23; НЕ присутсвуют все три поля: ValueError; entered data: 23
+Джигурда tjusruw@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда tjusruw@gmail.com 101
+oywlsbomiy@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: oywlsbomiy@gmail.com
+Геннадий dfmah@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: Геннадий dfmah@gmail.com
+Анна rqcfigvam 58; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'rqcfigvam'} 
+Геннадий gowp@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий gowp@ya.ru 9
+Яочуан hcfigvam 80; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hcfigvam'} 
+Геннадий 55 ndb@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '55'} 
+Ван zbubzr@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван zbubzr@gmail.com 7
+Ли 74 wgugrckxw@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '74'} 
+Яочуан hgxwj@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан hgxwj@gmail.com 7
+Гнойный tygluu@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный tygluu@gmail.com 9
+Джигурда666 mkogutwr@gmail.com 20; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда666'} 
+Геннадий666 jqw@ya.ru 58; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий666'} 
+Равшан mqg@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан mqg@mail.ru 7
+Мария fyqx@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария fyqx@gmail.com 101
+Мария igqkc 56; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'igqkc'} 
+Тролль!!!!1 iboxbi@mail.ru 27; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Тролль!!!!1'} 
+Ли xm@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли xm@gmail.com 101
+Бузова666 ndoirzuht@gmail.com 35; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Бузова666'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ольга grctgo@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга grctgo@mail.ru 101
+Дмитрий nwjrj@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий nwjrj@ya.ru 10
+Ольга666 jkks@ya.ru 88; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга666'} 
+14 qjdyda@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: 14 qjdyda@ya.ru
+Хенг666 dbkxglrtr@gmail.com 20; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг666'} 
+Ван twypxwtnqs@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван twypxwtnqs@ya.ru 8
+Ольга; НЕ присутсвуют все три поля: ValueError; entered data: Ольга
+Яочуан jqrvpik@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан jqrvpik@gmail.com 8
+Ярослав nbpbn@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав nbpbn@ya.ru 100
+Пенг 18; НЕ присутсвуют все три поля: ValueError; entered data: Пенг 18
+Ван eqvzujpa@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван eqvzujpa@mail.ru 100
+Ван qfaxe@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван qfaxe@mail.ru 10
+Земфира666 mkxfbiglg@ya.ru 25; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Земфира666'} 
+Ли vsrbknpi@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли vsrbknpi@gmail.com 101
+Волочкова42 jplbtuvok@mail.ru 39; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Волочкова42'} 
+Степан gggpaqbb 39; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'gggpaqbb'} 
+Нагиев kdxmdjsfoq@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев kdxmdjsfoq@gmail.com 7
+Геннадий 51 ngibl@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '51'} 
+Ярослав!!!!1 xd@mail.ru 46; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав!!!!1'} 
+Михаил dmsckxsvkq@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил dmsckxsvkq@ya.ru 101
+Чонгкун qyrb 94; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'qyrb'} 
+Владимир txd@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир txd@ya.ru 100
+Пенг42 jbxhywaw@gmail.com 94; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Пенг42'} 
+Бузова 58; НЕ присутсвуют все три поля: ValueError; entered data: Бузова 58
+Бузова cpzofk@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова cpzofk@ya.ru 100
+Степан ubahsmsk@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан ubahsmsk@gmail.com 10
+Ольга666 ot@gmail.com 9; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга666'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Тролль nohc@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль nohc@ya.ru 8
+Хенг42 tfglv@ya.ru 82; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг42'} 
+Мария666 sp@mail.ru 67; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Мария666'} 
+Тролль lpiqiywb@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль lpiqiywb@mail.ru 8
+Ольга alcdfigvam 75; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'alcdfigvam'} 
+Равшан pdomev@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан pdomev@gmail.com 8
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Дмитрий!!!!1 ccoqjfx@mail.ru 15; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Дмитрий!!!!1'} 
+Артём42 clcmztc@gmail.com 94; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Артём42'} 
+Сянцзян jyyw@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян jyyw@ya.ru 7
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Джамшут 86 mz@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '86'} 
+Ли rqgjdwttm@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли rqgjdwttm@ya.ru 99
+Ольга vheltf 30; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'vheltf'} 
+Ольга tmstxptsw@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга tmstxptsw@gmail.com 101
+Бузова ipguhyopqfigvam 62; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ipguhyopqfigvam'} 
+Пенг cebjbooriu@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг cebjbooriu@mail.ru 99
+Гнойный666 sjb@mail.ru 91; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Гнойный666'} 
+Джигурда qv@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда qv@gmail.com 10
+Чонгкун42 whw@gmail.com 71; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чонгкун42'} 
+Чехова42 ltcp@mail.ru 37; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чехова42'} 
+Ольга 90 nbyqfilr@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '90'} 
+Бузова ussmcpaa@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова ussmcpaa@gmail.com 10
+Ярослав guqnftm 91; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'guqnftm'} 
+Джигурда pwvllwc@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда pwvllwc@mail.ru 100
+Муммий!!!!1 ro@gmail.com 78; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий!!!!1'} 
+Муммий afch@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий afch@gmail.com 100
+Муммий kxhupvl@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий kxhupvl@mail.ru 8
+Владимир666 fuxy@ya.ru 13; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Владимир666'} 
+Ольга vxyp@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга vxyp@gmail.com 10
+Яочуан!!!!1 xgyph@ya.ru 73; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Яочуан!!!!1'} 
+Муммий yorphou@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий yorphou@mail.ru 101
+Владимир jvgb@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир jvgb@gmail.com 9
+Яочуан rmuqgtv 19; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'rmuqgtv'} 
+Джамшут xkmcgp@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут xkmcgp@gmail.com 100
+Джамшут zmlft@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут zmlft@gmail.com 9
+Равшан dfzxjzqx@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан dfzxjzqx@gmail.com 9
+Мария hktpu@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария hktpu@ya.ru 7
+Муммий666 ghkzdxn@mail.ru 92; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий666'} 
+Муммий btoeedijx@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий btoeedijx@ya.ru 10
+Владимир xstkvrskfigvam 75; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'xstkvrskfigvam'} 
+Михаил ity 41; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ity'} 
+Хенг ijygcm@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: Хенг ijygcm@mail.ru
+Тролль ydmqa 44; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ydmqa'} 
+Ярослав nylmbleako@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав nylmbleako@gmail.com 7
+Муммий xjctubyfz@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий xjctubyfz@gmail.com 7
+Сянцзян xrcrvmblnw@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян xrcrvmblnw@ya.ru 9
+Джамшут666 dgbk@gmail.com 86; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джамшут666'} 
+Равшан xsortwb@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан xsortwb@ya.ru 100
+Михаил ksfigvam 86; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ksfigvam'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Равшан dp@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан dp@gmail.com 7
+Равшан42 oztp@gmail.com 35; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан42'} 
+Пенг 91 sbkivwv@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '91'} 
+Чонгкун bmybxiicj@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун bmybxiicj@mail.ru 100
+Анна gju@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна gju@gmail.com 7
+Яочуан kmaqjfigvam 66; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'kmaqjfigvam'} 
+Ольга 55 jym@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '55'} 
+Хенг ovaes@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг ovaes@gmail.com 10
+Ли qnxbars@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли qnxbars@mail.ru 10
+Волочкова hpn@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова hpn@gmail.com 9
+Чонгкун qduhwjj@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун qduhwjj@mail.ru 9
+Чехова jbf@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова jbf@gmail.com 10
+Чехова zbqjf@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова zbqjf@gmail.com 8
+Михаил666 jtczdhuvyu@mail.ru 87; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил666'} 
+Мария666 hcz@mail.ru 49; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Мария666'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Нагиев 34 xazkz@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '34'} 
+Нагиев!!!!1 pekyd@ya.ru 59; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев!!!!1'} 
+Сянцзян ptuwk@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян ptuwk@mail.ru 101
+Степан pgunwi@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан pgunwi@gmail.com 101
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Чехова dxkrhlt@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова dxkrhlt@mail.ru 8
+Ярослав 68 zyb.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '68'} 
+Артём avc@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём avc@mail.ru 7
+Яочуан yevr@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан yevr@gmail.com 101
+Ли kp@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли kp@ya.ru 99
+Владимир 60 ldyuyv@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '60'} 
+Ольга ulsdfsmty@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга ulsdfsmty@gmail.com 99
+Геннадий666 dvgwstof@mail.ru 61; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий666'} 
+Тролль666 jwnlr@mail.ru 92; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Тролль666'} 
+Ли mdwje@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли mdwje@mail.ru 7
+Волочкова zruagjjubo@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова zruagjjubo@mail.ru 101
+Равшан 94 uhddv@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '94'} 
+Сянцзян mcbq@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян mcbq@mail.ru 7
+Анна bjzmv@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна bjzmv@ya.ru 99
+Ли; НЕ присутсвуют все три поля: ValueError; entered data: Ли
+Анна bcmncsiazj@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна bcmncsiazj@mail.ru 8
+Чехова cmedyzdmuf@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова cmedyzdmuf@ya.ru 8
+Ван swcpzgfqk@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван swcpzgfqk@gmail.com 9
+Ли666 viperac@gmail.com 11; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли666'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Джигурда cazcggmh@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда cazcggmh@mail.ru 101
+Ольга vmtulqovl@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга vmtulqovl@ya.ru 100
+Ван llrvnboy 82; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'llrvnboy'} 
+Яочуан rpmbqyjmjn@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан rpmbqyjmjn@gmail.com 99
+Бузова666 stwxu@ya.ru 82; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Бузова666'} 
+Джамшут osi@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут osi@ya.ru 101
+Джигурда xkfigvam 51; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'xkfigvam'} 
+Бузова666 rihao@mail.ru 91; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Бузова666'} 
+Хенг666 fuznbykkpo@gmail.com 56; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг666'} 
+Артём42 eejjr@ya.ru 30; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Артём42'} 
+Ли lbrlgdc@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли lbrlgdc@gmail.com 101
+acesfkx; НЕ присутсвуют все три поля: ValueError; entered data: acesfkx
+Ван ksjxcbk@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: Ван ksjxcbk@gmail.com
+Геннадий42 daflhhwdg@mail.ru 67; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий42'} 
+Мария eojdw@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария eojdw@mail.ru 10
+Степан 37; НЕ присутсвуют все три поля: ValueError; entered data: Степан 37
+Тролль42 kqgwru@ya.ru 37; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Тролль42'} 
+Геннадий ffr@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий ffr@ya.ru 7
+Хенг666 lwiirkclhq@ya.ru 29; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг666'} 
+Тролль dfk@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль dfk@mail.ru 10
+Геннадий ixvaz@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий ixvaz@ya.ru 10
+Волочкова tdddmgika@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова tdddmgika@ya.ru 9
+Хенг; НЕ присутсвуют все три поля: ValueError; entered data: Хенг
+Ли666 kphzoum@ya.ru 94; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли666'} 
+Чонгкун ycggmccqfigvam 7; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ycggmccqfigvam'} 
+Муммий zqmi@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий zqmi@mail.ru 99
+Ли42 wxexmgqlv@mail.ru 57; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли42'} 
+Михаил smihac@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил smihac@ya.ru 9
+Мария hdmshzfqv@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария hdmshzfqv@gmail.com 99
+Пенг42 jdknfivgid@ya.ru 24; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Пенг42'} 
+Гнойный666 xjbx@gmail.com 78; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Гнойный666'} 
+Джигурда zmjc 45; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'zmjc'} 
+Земфира; НЕ присутсвуют все три поля: ValueError; entered data: Земфира
+99; НЕ присутсвуют все три поля: ValueError; entered data: 99
+Равшан yy@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан yy@gmail.com 100
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Владимир xas@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир xas@ya.ru 101
+Нагиев gtckxtsg@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев gtckxtsg@gmail.com 8
+Владимир; НЕ присутсвуют все три поля: ValueError; entered data: Владимир
+Яочуан jlqc@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан jlqc@mail.ru 99
+Ольга 77; НЕ присутсвуют все три поля: ValueError; entered data: Ольга 77
+hbqvvgvyv@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: hbqvvgvyv@gmail.com
+Степан jrahedkro.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан jrahedkro.ru 100
+Яочуан jcqqtqjn@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан jcqqtqjn@gmail.com 99
+Анна frnm@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна frnm@ya.ru 9
+Ли rlobsdxnkm@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли rlobsdxnkm@ya.ru 101
+Ли zocmhhldtxfigvam 33; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'zocmhhldtxfigvam'} 
+Дмитрий dpado@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий dpado@ya.ru 101
+Сянцзян!!!!1 cqc@mail.ru 79; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Сянцзян!!!!1'} 
+Нагиев zobbamthn@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: Нагиев zobbamthn@ya.ru
+Артём pbxxpkp@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: Артём pbxxpkp@mail.ru
+Ольга swxjl@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: Ольга swxjl@ya.ru
+Михаил ogaptxrw 10; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ogaptxrw'} 
+Чехова ikkjvfigvam 83; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ikkjvfigvam'} 
+54; НЕ присутсвуют все три поля: ValueError; entered data: 54
+Михаил666 mavzyuda@gmail.com 61; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил666'} 
+Ольга 20 oja@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '20'} 
+Сянцзян qvujdw@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян qvujdw@mail.ru 8
+Ольга tbkvqikx@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга tbkvqikx@mail.ru 99
+Бузова giywpmvk@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова giywpmvk@gmail.com 10
+Ли xinydgkyz; НЕ присутсвуют все три поля: ValueError; entered data: Ли xinydgkyz
+Дмитрий!!!!1 cfortxov@gmail.com 100; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Дмитрий!!!!1'} 
+Пенг sojqh@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг sojqh@mail.ru 100
+Ли 73; НЕ присутсвуют все три поля: ValueError; entered data: Ли 73
+Ли okh@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли okh@ya.ru 99
+Муммий tdlgluv@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий tdlgluv@mail.ru 8
+Артём nigurvk@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём nigurvk@mail.ru 99
+Пенг lm@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг lm@ya.ru 100
+Пенг azomitvegl@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг azomitvegl@mail.ru 101
+Пенг 41 hivhqztutj@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '41'} 
+Геннадий ahmh@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий ahmh@mail.ru 7
+Бузова khsfbnfigvam 10; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'khsfbnfigvam'} 
+Земфира xhtsz@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира xhtsz@ya.ru 99
+Пенг 12 epj@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '12'} 
+Дмитрий ka 54; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ka'} 
+Владимир uxo@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир uxo@mail.ru 8
+Ли mbshdfcuq@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли mbshdfcuq@mail.ru 9
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Пенг666 hsj@ya.ru 39; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Пенг666'} 
+Равшан!!!!1 dvmncadh@ya.ru 50; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан!!!!1'} 
+Владимир pjrehnjr@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир pjrehnjr@gmail.com 8
+Земфира qnrfigvam 38; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'qnrfigvam'} 
+Земфира niuwszn@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира niuwszn@ya.ru 10
+Гнойный zjcetselmz@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный zjcetselmz@gmail.com 99
+jq@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: jq@gmail.com
+Хенг hqg@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг hqg@ya.ru 7
+Яочуан bdg@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан bdg@gmail.com 99
+Джамшут42 jfde@mail.ru 100; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джамшут42'} 
+Джамшут qsjdks@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут qsjdks@gmail.com 101
+Равшан42 vcxkqxf@gmail.com 97; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан42'} 
+Геннадий jnfyfuewt@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий jnfyfuewt@gmail.com 10
+Геннадий gzrcyd@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий gzrcyd@ya.ru 9
+Степан pvte@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан pvte@mail.ru 101
+Ли kzyqcs@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли kzyqcs@ya.ru 100
+Волочкова qsuopb 21; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'qsuopb'} 
+fpntrectkj@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: fpntrectkj@gmail.com
+Ярослав rlfkb@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав rlfkb@mail.ru 9
+Равшан errdbsjifd@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан errdbsjifd@gmail.com 101
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ли rsfdutfigvam 23; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'rsfdutfigvam'} 
+Сянцзян42 njn@gmail.com 12; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Сянцзян42'} 
+Ярослав ureuoho@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав ureuoho@gmail.com 101
+Сянцзян vapnupu@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян vapnupu@ya.ru 100
+Владимир 26 tgovvpmv@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '26'} 
+Михаил42 yrzsids@gmail.com 87; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил42'} 
+Чонгкун 22 uvb@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '22'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Анна tgfxv@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна tgfxv@ya.ru 100
+Ольга 37 gq@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '37'} 
+Артём42 fczwr@gmail.com 48; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Артём42'} 
+Нагиев 46 ptqls@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '46'} 
+Джигурда ztummrmgo@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда ztummrmgo@mail.ru 7
+Нагиев!!!!1 xwrvlg@ya.ru 78; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев!!!!1'} 
+Хенг!!!!1 cblioh@mail.ru 34; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг!!!!1'} 
+47; НЕ присутсвуют все три поля: ValueError; entered data: 47
+Анна666 fsfop@mail.ru 58; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна666'} 
+Джигурда!!!!1 isgmd@gmail.com 99; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда!!!!1'} 
+Чехова; НЕ присутсвуют все три поля: ValueError; entered data: Чехова
+Ольга hbrs@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга hbrs@ya.ru 10
+Чехова wrzawlzy@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова wrzawlzy@ya.ru 10
+Тролль spdkqaktn@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль spdkqaktn@ya.ru 9
+Михаил ewvlnkmq@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил ewvlnkmq@ya.ru 10
+Ярослав xpkehoe@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав xpkehoe@gmail.com 8
+Ольга xwyvp@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга xwyvp@ya.ru 8
+Степан gd@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан gd@ya.ru 9
+Пенг42 wouu@ya.ru 31; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Пенг42'} 
+Джамшут 31; НЕ присутсвуют все три поля: ValueError; entered data: Джамшут 31
+Хенг 58 ebsip@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '58'} 
+Волочкова666 iooulyqpni@mail.ru 42; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Волочкова666'} 
+Гнойный kesd@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный kesd@mail.ru 100
+Равшан ubznniijoz@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан ubznniijoz@gmail.com 8
+Анна obdw@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна obdw@mail.ru 100
+Ли 12 lpe@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '12'} 
+Джамшут juudsiczp@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут juudsiczp@gmail.com 99
+Анна mgcapwtfkp.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна mgcapwtfkp.ru 99
+Степан ykxci@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан ykxci@gmail.com 99
+Ольга 44 rwrakjr@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '44'} 
+Тролль hgtc@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль hgtc@gmail.com 101
+Артём afbd@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём afbd@mail.ru 101
+Муммий; НЕ присутсвуют все три поля: ValueError; entered data: Муммий
+Геннадий666 fkz@mail.ru 7; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий666'} 
+Бузова mqtuhutq@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова mqtuhutq@ya.ru 10
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Земфира42 ydcmpreuzy@ya.ru 55; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Земфира42'} 
+Степан byjxrtlc@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан byjxrtlc@gmail.com 9
+Ли bxkv@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли bxkv@mail.ru 99
+Нагиев!!!!1 knxrnmi@ya.ru 18; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев!!!!1'} 
+Сянцзян42 xz@ya.ru 18; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Сянцзян42'} 
+Анна qgkqkrmmaz@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна qgkqkrmmaz@mail.ru 10
+Мария qact@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария qact@mail.ru 9
+Михаил jpcoyszthd@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил jpcoyszthd@mail.ru 9
+Геннадий fhi@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий fhi@ya.ru 101
+Ван zqtcknx@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван zqtcknx@gmail.com 101
+Чехова42 owfqdurm@gmail.com 54; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чехова42'} 
+Дмитрий jh@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий jh@ya.ru 7
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Яочуан lfjlerqqlt@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан lfjlerqqlt@mail.ru 10
+Анна666 zlofysrqh@gmail.com 88; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна666'} 
+Земфира666 ckgpqmeryl@gmail.com 67; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Земфира666'} 
+Геннадий 22 anqexnqa@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '22'} 
+Владимир666 mgb@ya.ru 59; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Владимир666'} 
+Нагиев lntfigvam 101; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'lntfigvam'} 
+Джигурда uaz@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда uaz@gmail.com 8
+Анна pqhgfwigty@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна pqhgfwigty@mail.ru 7
+Джигурда fs@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда fs@ya.ru 101
+Ли mfxvkzt@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли mfxvkzt@ya.ru 8
+Ольга hmmrfigvam 88; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hmmrfigvam'} 
+Анна qqsjrtws@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна qqsjrtws@mail.ru 100
+Нагиев42 lfsisf@ya.ru 36; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев42'} 
+Ли pfcr@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли pfcr@ya.ru 101
+Ярослав pmibrp@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав pmibrp@ya.ru 101
+Дмитрий!!!!1 mtn@gmail.com 53; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Дмитрий!!!!1'} 
+Тролль hzpxkklxaa@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль hzpxkklxaa@ya.ru 101
+Ван wreyyazwj@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван wreyyazwj@ya.ru 101
+Сянцзян 101; НЕ присутсвуют все три поля: ValueError; entered data: Сянцзян 101
+Нагиев rjorq@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев rjorq@mail.ru 10
+Муммий zoxml 68; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'zoxml'} 
+Ван ysnemx@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван ysnemx@gmail.com 7
+Чехова blwlpw 73; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'blwlpw'} 
+Дмитрий ddfljsbst@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий ddfljsbst@gmail.com 9
+Артём affbrmzi@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём affbrmzi@mail.ru 8
+Хенг!!!!1 ploqax@mail.ru 90; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг!!!!1'} 
+10 kfkzlg@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: 10 kfkzlg@mail.ru
+Владимир gfltut@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир gfltut@gmail.com 8
+Ярослав qvbiichydh 27; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'qvbiichydh'} 
+Пенг vvzxlrgg@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг vvzxlrgg@ya.ru 100
+Владимир naciwer@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир naciwer@gmail.com 8
+Земфира kebiiemny@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира kebiiemny@ya.ru 101
+Ван bptghqopkc@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван bptghqopkc@gmail.com 101
+Владимир kpiefigvam 18; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'kpiefigvam'} 
+Ярослав qglqvcgo 43; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'qglqvcgo'} 
+Ольга zjg@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга zjg@mail.ru 99
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Нагиев666 ykj@gmail.com 18; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев666'} 
+Бузова 21 yixcbjtl@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '21'} 
+Джигурда42 hwf@mail.ru 85; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда42'} 
+Ольга666 yiykos@mail.ru 23; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга666'} 
+Гнойный anoocqccgp@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный anoocqccgp@mail.ru 10
+Владимир ebbqdu@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир ebbqdu@mail.ru 99
+Тролль42 kakcexaoto.ru 98; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Тролль42'} 
+Дмитрий yifktprcrg@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий yifktprcrg@ya.ru 99
+Дмитрий42 oghektepxm@ya.ru 51; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Дмитрий42'} 
+Волочкова erem@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова erem@ya.ru 101
+Ван pvexq@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван pvexq@ya.ru 101
+Джамшут666 mhun@ya.ru 83; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джамшут666'} 
+Дмитрий cwjx@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий cwjx@gmail.com 10
+Степан 9; НЕ присутсвуют все три поля: ValueError; entered data: Степан 9
+Сянцзян kemwofigvam 80; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'kemwofigvam'} 
+Равшан rrm@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан rrm@ya.ru 101
+Гнойный666 ckxy@mail.ru 98; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Гнойный666'} 
+Ли alravwh@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли alravwh@gmail.com 8
+Пенг 49; НЕ присутсвуют все три поля: ValueError; entered data: Пенг 49
+Степан mijnf@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан mijnf@gmail.com 9
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Михаил666 tlgrqqw@ya.ru 51; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил666'} 
+Ли 30 shgijkhj@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '30'} 
+Артём jqvuaztxdufigvam 41; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'jqvuaztxdufigvam'} 
+Яочуан; НЕ присутсвуют все три поля: ValueError; entered data: Яочуан
+Ван sxddhulb@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван sxddhulb@gmail.com 10
+Дмитрий qxkuijl 73; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'qxkuijl'} 
+Мария odpllfnvt@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария odpllfnvt@ya.ru 10
+Тролль!!!!1 zylxlgct@gmail.com 17; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Тролль!!!!1'} 
+lpr@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: lpr@gmail.com
+Пенг hwgiiv@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг hwgiiv@gmail.com 9
+Муммий42 jhvwrdquj@gmail.com 60; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий42'} 
+Джигурда ohjtabz@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда ohjtabz@ya.ru 8
+Ван666 ggdwflel@mail.ru 74; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ван666'} 
+Равшан mnyqvc@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: Равшан mnyqvc@ya.ru
+Равшан bui 81; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'bui'} 
+Ван; НЕ присутсвуют все три поля: ValueError; entered data: Ван
+Чехова42 mf@ya.ru 64; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чехова42'} 
+Михаил; НЕ присутсвуют все три поля: ValueError; entered data: Михаил
+Мария jg@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария jg@mail.ru 7
+Нагиев tq@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев tq@mail.ru 99
+Пенг wmdcuhomzg@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг wmdcuhomzg@gmail.com 7
+Ольга kdxkedpoql@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга kdxkedpoql@mail.ru 7
+Артём!!!!1 qinssdk@ya.ru 32; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Артём!!!!1'} 
+Земфира kkroewjxde@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира kkroewjxde@ya.ru 100
+Гнойный umuslwra@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный umuslwra@gmail.com 10
+Чехова wtgyeyaoby@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова wtgyeyaoby@gmail.com 7
+Михаил ymmoepdgd@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил ymmoepdgd@ya.ru 7
+Дмитрий 53 js@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '53'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Михаил bcjpxcnlo@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил bcjpxcnlo@gmail.com 8
+Муммий!!!!1 hjithai@gmail.com 67; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий!!!!1'} 
+Мария 69 ombx@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '69'} 
+Земфира wamfb@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира wamfb@gmail.com 7
+Дмитрий mnfyuda 63; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'mnfyuda'} 
+Ли42 luyqxgeegp@gmail.com 88; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли42'} 
+Джамшут42 ktkajqsi@ya.ru 15; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джамшут42'} 
+Чонгкун 43 joakkqrec@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '43'} 
+Равшан42 hp@mail.ru 87; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан42'} 
+Волочкова nn@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова nn@ya.ru 101
+14 ooxxpscf@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: 14 ooxxpscf@mail.ru
+Тролль ohnf@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль ohnf@ya.ru 101
+Владимир pxlqrob@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: Владимир pxlqrob@ya.ru
+Мария edzii@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария edzii@ya.ru 100
+Земфира bj@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: Земфира bj@ya.ru
+Дмитрий 58; НЕ присутсвуют все три поля: ValueError; entered data: Дмитрий 58
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ли666 qrjdpmy@mail.ru 96; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли666'} 
+Степан666 jvxqidcl@gmail.com 31; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Степан666'} 
+Чонгкун ajwdvtf@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун ajwdvtf@mail.ru 7
+Нагиев krak@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев krak@mail.ru 99
+Ван ssrypdn@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван ssrypdn@ya.ru 101
+Бузова bm@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова bm@gmail.com 100
+Чехова goic@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова goic@mail.ru 101
+Яочуан666 dbgbcbq@gmail.com 67; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Яочуан666'} 
+Чонгкун!!!!1 qembh@ya.ru 91; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чонгкун!!!!1'} 
+Равшан tmybye@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан tmybye@gmail.com 100
+21 ojuqqls@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: 21 ojuqqls@mail.ru
+Гнойный llovbmsf@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный llovbmsf@ya.ru 99
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Джигурда hqjpqiuh@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда hqjpqiuh@gmail.com 7
+Яочуан ypujo@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан ypujo@mail.ru 9
+Волочкова!!!!1 ln@ya.ru 66; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Волочкова!!!!1'} 
+Артём 64 pmcjigwzx@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '64'} 
+Геннадий wskie@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий wskie@gmail.com 8
+Муммий nmwfzhopkrfigvam 34; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'nmwfzhopkrfigvam'} 
+Пенг42 dqcph@mail.ru 37; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Пенг42'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+91; НЕ присутсвуют все три поля: ValueError; entered data: 91
+Геннадий 57 qha@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '57'} 
+Волочкова42 cal@ya.ru 95; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Волочкова42'} 
+40 utgz@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: 40 utgz@ya.ru
+Сянцзян42 te@gmail.com 93; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Сянцзян42'} 
+Муммий42 fhtyashoe@ya.ru 93; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий42'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Джигурда 79 lsifigvam; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '79'} 
+Геннадий zoonmmm@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий zoonmmm@ya.ru 101
+Владимир htjxxgmtsx@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир htjxxgmtsx@gmail.com 10
+Анна rpumuguesa@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна rpumuguesa@mail.ru 101
+Равшан ndtql@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан ndtql@mail.ru 99
+Мария!!!!1 gqxmebqau@mail.ru 50; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Мария!!!!1'} 
+Земфира pntiproy@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира pntiproy@gmail.com 7
+Джамшут ubbcxo@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут ubbcxo@mail.ru 7
+Земфира timjdfxxb@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира timjdfxxb@mail.ru 100
+Чонгкун pyfwrii@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун pyfwrii@ya.ru 99
+Ван42 tf@mail.ru 52; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ван42'} 
+qxibm@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: qxibm@gmail.com
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Дмитрий!!!!1 dbow@gmail.com 70; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Дмитрий!!!!1'} 
+Геннадий sto@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий sto@mail.ru 99
+Ли notnnzao@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли notnnzao@mail.ru 10
+Дмитрий unkl@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий unkl@mail.ru 100
+Джамшут 51 maoqhoiq@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '51'} 
+Муммий tmwj@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий tmwj@gmail.com 7
+Муммий oxtxopwnrjfigvam 18; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'oxtxopwnrjfigvam'} 
+Нагиев42 lrapsu@gmail.com 35; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев42'} 
+Нагиев dqxse@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев dqxse@ya.ru 10
+Сянцзян fem@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян fem@mail.ru 7
+Ли42 rrqqqij@mail.ru 70; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли42'} 
+Дмитрий mvqwrord@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий mvqwrord@gmail.com 7
+Нагиев pwznxq@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев pwznxq@mail.ru 10
+Артём 43 dnp@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '43'} 
+Хенг aw@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг aw@gmail.com 9
+Ярослав ueww@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав ueww@mail.ru 100
+Ярослав vytzy@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав vytzy@gmail.com 101
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Владимир 28 an@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '28'} 
+Тролль al@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль al@mail.ru 10
+Гнойный yfucubanov@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный yfucubanov@ya.ru 101
+Бузова666 puhl@mail.ru 66; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Бузова666'} 
+Владимир pazefbeg@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир pazefbeg@mail.ru 8
+Мария ihvi@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария ihvi@mail.ru 8
+Степан ayrjjzed@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан ayrjjzed@mail.ru 100
+45; НЕ присутсвуют все три поля: ValueError; entered data: 45
+Чехова rvrscke@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова rvrscke@gmail.com 101
+79 uybshtbgyy@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: 79 uybshtbgyy@gmail.com
+Михаил 44; НЕ присутсвуют все три поля: ValueError; entered data: Михаил 44
+Муммий42 pawd@mail.ru 74; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий42'} 
+Ли vf@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли vf@ya.ru 101
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Владимир vbvzuilfiw@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир vbvzuilfiw@mail.ru 8
+25; НЕ присутсвуют все три поля: ValueError; entered data: 25
+Ольга qknhyg@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга qknhyg@gmail.com 10
+Ярослав666 fuxp@gmail.com 12; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав666'} 
+Равшан qfkqfigvam 82; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'qfkqfigvam'} 
+Мария666 st@mail.ru 91; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Мария666'} 
+Михаил 40 aymkhugwng@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '40'} 
+sigaezard@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: sigaezard@gmail.com
+Муммий 25 xmxdjgk@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '25'} 
+Муммий!!!!1 wjplpskc@mail.ru 14; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий!!!!1'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Артём ueebpkyfigvam 80; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ueebpkyfigvam'} 
+Земфира gwihlyfy@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира gwihlyfy@gmail.com 101
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Яочуан hilxryf@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан hilxryf@gmail.com 101
+Хенг opcaffkfigvam 38; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'opcaffkfigvam'} 
+Чонгкун42 furhqlmdf@mail.ru 31; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чонгкун42'} 
+Сянцзян qdvz@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян qdvz@gmail.com 8
+Степан!!!!1 vuieqxn@mail.ru 79; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Степан!!!!1'} 
+Пенг lni@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг lni@ya.ru 99
+Муммий cdssxrpfigvam 26; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'cdssxrpfigvam'} 
+Равшан fobkvxjfw@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан fobkvxjfw@mail.ru 10
+Пенг!!!!1 jsatsc@mail.ru 70; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Пенг!!!!1'} 
+Тролль tqqr 55; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'tqqr'} 
+Пенг fdlpdijbwn@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг fdlpdijbwn@ya.ru 100
+Владимир42 pc@ya.ru 68; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Владимир42'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Артём bphgql@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём bphgql@ya.ru 9
+Артём cnbkekcprn@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём cnbkekcprn@gmail.com 101
+Мария yfeuy@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария yfeuy@ya.ru 99
+Дмитрий666 ktflybe@gmail.com 28; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Дмитрий666'} 
+Земфира!!!!1 bb@mail.ru 13; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Земфира!!!!1'} 
+Ольга!!!!1 estofkaeg@gmail.com 93; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга!!!!1'} 
+Земфира knzuvzxjbz@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира knzuvzxjbz@mail.ru 9
+Гнойный 79; НЕ присутсвуют все три поля: ValueError; entered data: Гнойный 79
+Степан uxppyxa@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан uxppyxa@gmail.com 99
+Ли unubujw@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли unubujw@ya.ru 9
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Равшан ziyrz@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан ziyrz@mail.ru 99
+65 ms@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: 65 ms@ya.ru
+Тролль knnuahehn@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль knnuahehn@mail.ru 7
+Яочуан42 fwu@gmail.com 80; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Яочуан42'} 
+Ольга666 afxahwgcma@ya.ru 98; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга666'} 
+Джамшут ocvignginp@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут ocvignginp@mail.ru 100
+Яочуан wieyfigvam 64; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'wieyfigvam'} 
+Ван tywtptf@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван tywtptf@mail.ru 99
+Ван!!!!1 sqceyont@ya.ru 24; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ван!!!!1'} 
+Сянцзян khvkdpeo@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян khvkdpeo@mail.ru 9
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Сянцзян666 fycwqkqdmu@gmail.com 74; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Сянцзян666'} 
+Геннадий tylyk.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий tylyk.ru 101
+Нагиев666 vguk@ya.ru 42; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев666'} 
+Анна hgedd@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна hgedd@ya.ru 101
+Бузова 61; НЕ присутсвуют все три поля: ValueError; entered data: Бузова 61
+Ван ascadyoz@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван ascadyoz@gmail.com 101
+Нагиев kgfa 98; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'kgfa'} 
+Земфира666 imgbvdy@mail.ru 82; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Земфира666'} 
+31 vx@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: 31 vx@gmail.com
+Тролль yqspypob@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль yqspypob@gmail.com 9
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Анна42 hyrlnugixsfigvam 42; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна42'} 
+Ольга; НЕ присутсвуют все три поля: ValueError; entered data: Ольга
+Геннадий666 hlfrxbq@ya.ru 38; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий666'} 
+Бузова cvha@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова cvha@ya.ru 10
+Степан!!!!1 haudkniw@ya.ru 97; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Степан!!!!1'} 
+Дмитрий rkycgpt@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий rkycgpt@mail.ru 100
+Дмитрий cpeszocljj@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий cpeszocljj@gmail.com 10
+Пенг666 lcxemzac@gmail.com 28; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Пенг666'} 
+Ли!!!!1 izok@mail.ru 78; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли!!!!1'} 
+Михаил666 ci@mail.ru 28; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил666'} 
+Бузова42 utzeyox@gmail.com 49; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Бузова42'} 
+Яочуан666 pstkv@gmail.com 74; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Яочуан666'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+59; НЕ присутсвуют все три поля: ValueError; entered data: 59
+19 mwsfzxffo@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: 19 mwsfzxffo@mail.ru
+Дмитрий unrgmlihja@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий unrgmlihja@mail.ru 99
+Геннадий lgquvjrajh@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий lgquvjrajh@mail.ru 9
+Ли fjg@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли fjg@gmail.com 9
+Равшан yfdpg@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан yfdpg@mail.ru 10
+Тролль zbma@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль zbma@ya.ru 9
+101; НЕ присутсвуют все три поля: ValueError; entered data: 101
+Геннадий eqnfdntfigvam 17; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'eqnfdntfigvam'} 
+Муммий!!!!1 maybgyk@ya.ru 29; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий!!!!1'} 
+Гнойный atnzrka@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный atnzrka@gmail.com 9
+Геннадий cejbr@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий cejbr@mail.ru 10
+Владимир uijfojgr@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир uijfojgr@ya.ru 99
+Пенг666 ct@gmail.com 15; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Пенг666'} 
+Ярослав vaftsheeit@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав vaftsheeit@ya.ru 100
+Тролль!!!!1 hwvpj@gmail.com 101; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Тролль!!!!1'} 
+Мария!!!!1 xoaedtfw@gmail.com 58; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Мария!!!!1'} 
+Дмитрий ymfwrayoan@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий ymfwrayoan@mail.ru 10
+Степан np@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан np@ya.ru 8
+Пенг dqlvzgzxu 50; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'dqlvzgzxu'} 
+Муммий zu@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий zu@ya.ru 8
+Хенг salvyr 44; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'salvyr'} 
+Земфира gidfsotke@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: Земфира gidfsotke@mail.ru
+Равшан tjatbkkyk@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан tjatbkkyk@gmail.com 10
+Владимир qzf@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир qzf@mail.ru 101
+Ли hovojhicdh@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли hovojhicdh@gmail.com 9
+Чехова icfigvam 36; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'icfigvam'} 
+Дмитрий worhalkv@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий worhalkv@ya.ru 8
+Ярослав ikqbf@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав ikqbf@ya.ru 10
+Джамшут toycr@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут toycr@gmail.com 100
+Волочкова bhihrlbxu@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова bhihrlbxu@ya.ru 101
+Ольга42 jlp@gmail.com 51; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга42'} 
+Степан zjmjfigvam 64; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'zjmjfigvam'} 
+Ли 63 ijy@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '63'} 
+Бузова42 ektbpz@gmail.com 26; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Бузова42'} 
+Тролль 57 xvl@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '57'} 
+Равшан sqbfbr@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан sqbfbr@ya.ru 8
+Сянцзян666 eg@gmail.com 19; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Сянцзян666'} 
+Пенг lnjzmahc@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг lnjzmahc@mail.ru 10
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Джигурда ti 9; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ti'} 
+Чехова trzmfalpx@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова trzmfalpx@ya.ru 9
+Яочуан42 ytxttprtyu@mail.ru 84; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Яочуан42'} 
+Ольга vwujloyv 99; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'vwujloyv'} 
+Артём sel@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём sel@ya.ru 99
+Ван ewqk@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван ewqk@mail.ru 9
+Ярослав wgvnhp@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав wgvnhp@ya.ru 99
+Хенг wughwnhvkb@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг wughwnhvkb@ya.ru 10
+Нагиев 43 iiodjj@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '43'} 
+86; НЕ присутсвуют все три поля: ValueError; entered data: 86
+Ольга inblsue@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга inblsue@mail.ru 7
+27; НЕ присутсвуют все три поля: ValueError; entered data: 27
+Ван42 tycx@gmail.com 81; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ван42'} 
+Равшан szippc@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан szippc@mail.ru 101
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Михаил666 gsgzqswkp@ya.ru 60; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил666'} 
+Дмитрий julidivtii@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий julidivtii@gmail.com 99
+Яочуан uyplslvms@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан uyplslvms@gmail.com 99
+Степан pulcbsxuf 21; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'pulcbsxuf'} 
+Геннадий!!!!1 ulffna@gmail.com 74; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий!!!!1'} 
+Артём!!!!1 neuxmabtmm@mail.ru 94; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Артём!!!!1'} 
+Гнойный xzddpgpg@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный xzddpgpg@ya.ru 100
+Джамшут gklrjszig@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут gklrjszig@mail.ru 99
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Волочкова faagm@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова faagm@ya.ru 101
+Дмитрий db@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий db@gmail.com 100
+Геннадий elppvyupu@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий elppvyupu@mail.ru 8
+34 myr@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: 34 myr@mail.ru
+Геннадий!!!!1 spgooa@ya.ru 82; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий!!!!1'} 
+Яочуан wlstx@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан wlstx@gmail.com 100
+Ольга orxjlqh@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга orxjlqh@gmail.com 100
+Яочуан666 mce@mail.ru 25; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Яочуан666'} 
+Сянцзян 97 vx@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '97'} 
+Ольга bfym@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга bfym@ya.ru 100
+45; НЕ присутсвуют все три поля: ValueError; entered data: 45
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ярослав irdmrg@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав irdmrg@mail.ru 9
+Чехова gwytfo@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова gwytfo@ya.ru 8
+Пенг jarldczq@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг jarldczq@mail.ru 99
+Михаил aattyffigvam 34; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'aattyffigvam'} 
+Тролль qcwjvtn 26; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'qcwjvtn'} 
+Джигурда; НЕ присутсвуют все три поля: ValueError; entered data: Джигурда
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ли beolypulk@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли beolypulk@mail.ru 100
+Владимир iyxmijs@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир iyxmijs@ya.ru 101
+Нагиев jutgyl@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев jutgyl@mail.ru 8
+Джигурда42 mbosuaobcn@ya.ru 33; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда42'} 
+Пенг pnsxg@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг pnsxg@ya.ru 9
+Тролль aer@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль aer@gmail.com 99
+Владимир42 pwfwj@ya.ru 21; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Владимир42'} 
+Земфира zkowwxkg@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира zkowwxkg@gmail.com 99
+Ли cvhczo 33; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'cvhczo'} 
+Мария efbu 77; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'efbu'} 
+Ли svaqehfigvam 77; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'svaqehfigvam'} 
+Чонгкун!!!!1 gffm@gmail.com 20; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чонгкун!!!!1'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Равшан bseowqfigvam 42; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'bseowqfigvam'} 
+Нагиев zbohkf@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев zbohkf@mail.ru 99
+Джигурда42 tznepble@ya.ru 75; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда42'} 
+Тролль utmdtd@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль utmdtd@ya.ru 10
+Джамшут wevesdrh@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут wevesdrh@mail.ru 8
+Муммий yklu@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий yklu@gmail.com 7
+Тролль pwtadxo@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль pwtadxo@gmail.com 8
+Гнойный 62 qeqd@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '62'} 
+Муммий!!!!1 wqxwzop@ya.ru 61; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий!!!!1'} 
+Нагиев; НЕ присутсвуют все три поля: ValueError; entered data: Нагиев
+Яочуан raw@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан raw@mail.ru 9
+Чехова eydej@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова eydej@ya.ru 101
+Джамшут eayzodx 52; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'eayzodx'} 
+Ольга wgwuu@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга wgwuu@ya.ru 101
+Геннадий djudzltj@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий djudzltj@mail.ru 101
+Джигурда; НЕ присутсвуют все три поля: ValueError; entered data: Джигурда
+Степан yejzxyf@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан yejzxyf@mail.ru 9
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Волочкова 93; НЕ присутсвуют все три поля: ValueError; entered data: Волочкова 93
+Пенг qruwcczp.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг qruwcczp.ru 101
+Гнойный42 slmdj@gmail.com 28; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Гнойный42'} 
+Ольга!!!!1 yaipm@gmail.com 83; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга!!!!1'} 
+Сянцзян pliohfbecr@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян pliohfbecr@mail.ru 9
+Сянцзян lnlscrhjpe@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян lnlscrhjpe@gmail.com 101
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Нагиев fhxpea@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев fhxpea@gmail.com 101
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Сянцзян qadxbr@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян qadxbr@gmail.com 9
+Сянцзян um@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян um@gmail.com 10
+Муммий iqi@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий iqi@ya.ru 100
+Ольга ie@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга ie@mail.ru 9
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Мария dnm 42; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'dnm'} 
+Ли fkp@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли fkp@mail.ru 8
+Земфира666 rvhajqvv@ya.ru 40; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Земфира666'} 
+Ольга oivsrkk@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга oivsrkk@ya.ru 7
+Степан42 laydgwwjwn@mail.ru 11; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Степан42'} 
+Чонгкун huddms@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун huddms@gmail.com 10
+Джигурда; НЕ присутсвуют все три поля: ValueError; entered data: Джигурда
+Ли mavu@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли mavu@ya.ru 100
+Тролль 54; НЕ присутсвуют все три поля: ValueError; entered data: Тролль 54
+Дмитрий!!!!1 bvkk@mail.ru 26; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Дмитрий!!!!1'} 
+Равшан42 ezntle@ya.ru 37; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан42'} 
+Тролль fsllueom@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль fsllueom@ya.ru 9
+Муммий ufauvx@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий ufauvx@gmail.com 9
+Муммий wznghtc@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий wznghtc@ya.ru 100
+Чонгкун hvro 22; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hvro'} 
+Ли wqpe@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли wqpe@ya.ru 100
+Сянцзян fkrquvfz@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян fkrquvfz@gmail.com 10
+Джигурда!!!!1 dyenaemmiv@ya.ru 9; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда!!!!1'} 
+Ярослав zvb@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав zvb@gmail.com 101
+Муммий42 sfghcwc@mail.ru 100; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий42'} 
+Ольга 53; НЕ присутсвуют все три поля: ValueError; entered data: Ольга 53
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Гнойный jvqjo@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный jvqjo@ya.ru 101
+Волочкова mwyte@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова mwyte@gmail.com 9
+Бузова zmcty 30; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'zmcty'} 
+Джигурда42 cgmyyleo@ya.ru 62; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда42'} 
+Гнойный moifjuxaqb@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный moifjuxaqb@mail.ru 10
+Чонгкун 24; НЕ присутсвуют все три поля: ValueError; entered data: Чонгкун 24
+Владимир wo@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир wo@gmail.com 99
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Гнойный42 ooscn@mail.ru 55; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Гнойный42'} 
+Тролль!!!!1 gyvjmzanae@gmail.com 26; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Тролль!!!!1'} 
+Нагиев42 jrjhg@gmail.com 73; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев42'} 
+Ван42 scca@mail.ru 18; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ван42'} 
+Владимир42 zphtkio@gmail.com 11; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Владимир42'} 
+Ольга 98 vlhqzb@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '98'} 
+Яочуан zgfmcpz@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан zgfmcpz@gmail.com 7
+Ярослав rgdcnbxfigvam 32; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'rgdcnbxfigvam'} 
+Хенг42 mgf@gmail.com 89; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг42'} 
+Земфира kdlirlp@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира kdlirlp@mail.ru 99
+Джамшут drzi@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут drzi@mail.ru 101
+Артём akttamj@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём akttamj@ya.ru 100
+Ван lfrvjvbihy@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван lfrvjvbihy@gmail.com 9
+Чехова dxjwys@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова dxjwys@gmail.com 99
+Ольга aj@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга aj@mail.ru 101
+Ольга hg 22; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hg'} 
+Муммий uddygjvo@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий uddygjvo@ya.ru 7
+Бузова fnfankwxld@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова fnfankwxld@ya.ru 8
+Волочкова nmilvddubzfigvam 16; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'nmilvddubzfigvam'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Джамшут agicbvccqx@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут agicbvccqx@gmail.com 101
+Сянцзян hrkjqzehpk@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян hrkjqzehpk@gmail.com 10
+Джамшут ufaukzgft@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут ufaukzgft@gmail.com 7
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Владимир!!!!1 fxjmh@gmail.com 97; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Владимир!!!!1'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ярослав!!!!1 wwmnsfvj@ya.ru 27; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав!!!!1'} 
+Мария zpcmjr@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария zpcmjr@gmail.com 8
+Чехова42 eezcpy@mail.ru 90; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чехова42'} 
+Михаил 28 ilehibygt@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '28'} 
+Ярослав 63 eaxnuai@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '63'} 
+Хенг666 onttosa@ya.ru 81; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг666'} 
+Ярослав666 vv@ya.ru 72; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ярослав666'} 
+Дмитрий 34 jccinp@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '34'} 
+Ольга666 ibfzjk@ya.ru 91; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга666'} 
+Земфира zhrfgfpc 82; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'zhrfgfpc'} 
+Нагиев gsf@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев gsf@gmail.com 8
+Степан666 tkzvgm@mail.ru 72; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Степан666'} 
+Ольга iyyoaghc@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга iyyoaghc@ya.ru 10
+Геннадий666 gev@ya.ru 89; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Геннадий666'} 
+Земфира lletd@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира lletd@mail.ru 7
+Владимир666 qudalgiaqm@gmail.com 65; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Владимир666'} 
+Владимир!!!!1 qzgghw@gmail.com 12; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Владимир!!!!1'} 
+Сянцзян osopkc@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян osopkc@gmail.com 7
+Мария mnfigvam 22; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'mnfigvam'} 
+Артём pudlfmzpwi@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём pudlfmzpwi@mail.ru 100
+Земфира duyfg@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира duyfg@gmail.com 7
+Муммий666 bh@gmail.com 39; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий666'} 
+Волочкова hk@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова hk@gmail.com 7
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Нагиев hekhxxlfigvam 67; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hekhxxlfigvam'} 
+79; НЕ присутсвуют все три поля: ValueError; entered data: 79
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Ван42 xm@gmail.com 30; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ван42'} 
+Геннадий ipddomkxs@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий ipddomkxs@ya.ru 100
+Ярослав mjp@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав mjp@ya.ru 101
+Степан ueubww@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан ueubww@mail.ru 8
+Ли!!!!1 srjvpum@gmail.com 65; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли!!!!1'} 
+Чехова 23 fogfgwr@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '23'} 
+Тролль tudfps@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль tudfps@mail.ru 99
+Бузова wptagk@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова wptagk@gmail.com 10
+Дмитрий 33 bewlfhvxxv@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '33'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Бузова 85 ymtcb@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '85'} 
+Равшан!!!!1 wxh@mail.ru 14; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Равшан!!!!1'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Чонгкун 13 rqkwufl@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '13'} 
+Нагиев666 jebsjraw@ya.ru 61; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев666'} 
+Хенг!!!!1 kxp@gmail.com 62; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Хенг!!!!1'} 
+Нагиев666 ou@mail.ru 27; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Нагиев666'} 
+Земфира abfigvam 95; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'abfigvam'} 
+Волочкова oefgutnvw@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова oefgutnvw@mail.ru 101
+Яочуан666 vtkmd@ya.ru 30; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Яочуан666'} 
+Ольга42 dh@ya.ru 25; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга42'} 
+Ли ugbeuptrtn@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли ugbeuptrtn@ya.ru 7
+Сянцзян!!!!1 eofcojuehm@ya.ru 32; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Сянцзян!!!!1'} 
+Тролль etmfrf@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль etmfrf@gmail.com 10
+Владимир fvfosztj@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир fvfosztj@gmail.com 99
+Яочуан!!!!1 hrkqrm@mail.ru 80; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Яочуан!!!!1'} 
+Артём!!!!1 qafsowppis@gmail.com 43; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Артём!!!!1'} 
+Джигурда htufigvam 16; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'htufigvam'} 
+Земфира klzjeoxnq@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира klzjeoxnq@ya.ru 100
+Волочкова dtbcc@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова dtbcc@ya.ru 10
+Яочуан mmbbjfmwb@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан mmbbjfmwb@ya.ru 9
+Нагиев ap@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Нагиев ap@mail.ru 8
+Мария bxja@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария bxja@ya.ru 99
+Джамшут nqabszyz@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут nqabszyz@gmail.com 99
+Ольга666 vr@mail.ru 101; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ольга666'} 
+Сянцзян nrg@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян nrg@gmail.com 7
+62; НЕ присутсвуют все три поля: ValueError; entered data: 62
+Мария koieqn@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария koieqn@mail.ru 7
+Чехова 86; НЕ присутсвуют все три поля: ValueError; entered data: Чехова 86
+Дмитрий tdrc@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий tdrc@gmail.com 100
+Равшан; НЕ присутсвуют все три поля: ValueError; entered data: Равшан
+Равшан gwtfigvam 92; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'gwtfigvam'} 
+Мария666 fxkiz@mail.ru 66; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Мария666'} 
+Степан egevtifebg@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан egevtifebg@gmail.com 101
+Равшан pvtwyqxc@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан pvtwyqxc@gmail.com 8
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Земфира eqmwug@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира eqmwug@mail.ru 101
+Чонгкун gysadqnc@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун gysadqnc@gmail.com 8
+pt@ya.ru; НЕ присутсвуют все три поля: ValueError; entered data: pt@ya.ru
+Ли luzo@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли luzo@gmail.com 8
+Гнойный xyvjancymu@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный xyvjancymu@mail.ru 9
+Ван fierz@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван fierz@gmail.com 8
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Владимир666 hjwqgntzb@gmail.com 70; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Владимир666'} 
+Джамшут42 mutpfnzqy@mail.ru 63; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джамшут42'} 
+Мария catk@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария catk@gmail.com 10
+Ольга nx 57; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'nx'} 
+Ли mydowr@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли mydowr@ya.ru 100
+Ли finxkaeqo@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли finxkaeqo@mail.ru 7
+Артём okodti@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём okodti@gmail.com 9
+Артём pg@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём pg@mail.ru 10
+Ярослав ggo@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав ggo@gmail.com 99
+Ли vuwiooj@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли vuwiooj@ya.ru 10
+Чехова qxabadudq@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова qxabadudq@mail.ru 99
+Дмитрий hqgon@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий hqgon@ya.ru 8
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Равшан xjsibxpos@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан xjsibxpos@mail.ru 8
+Дмитрий hezrslfkh@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий hezrslfkh@gmail.com 10
+Чехова 80 lsyfvzjhx@gmail.com; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '80'} 
+Чехова42 fqsgq@ya.ru 75; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Чехова42'} 
+Артём irrx 8; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'irrx'} 
+Степан hnkomvo@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан hnkomvo@ya.ru 8
+Ли gggep@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли gggep@mail.ru 7
+Нагиев 39 xexcn@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '39'} 
+Мария dpdkgrk@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария dpdkgrk@mail.ru 9
+Чехова slouvlfjhp.mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова slouvlfjhp.mail.ru 101
+Ольга jgsvnytwj@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга jgsvnytwj@gmail.com 100
+Волочкова ofkuhzxqa@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова ofkuhzxqa@mail.ru 100
+Земфира vegfigvam 79; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'vegfigvam'} 
+Степан npghipo@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан npghipo@ya.ru 8
+Анна verpjfigvam 98; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'verpjfigvam'} 
+Ван rbxjhouu@ya.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван rbxjhouu@ya.ru 99
+Бузова hunjg 57; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hunjg'} 
+Ли wnqnnhqnu@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли wnqnnhqnu@gmail.com 100
+Ли duejc@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли duejc@mail.ru 101
+Хенг texclyvv@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг texclyvv@ya.ru 7
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Равшан hhwldj@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан hhwldj@mail.ru 101
+Нагиев 32 ddqkqncsc@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '32'} 
+Геннадий gku@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий gku@mail.ru 100
+Михаил mqfigvam 42; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'mqfigvam'} 
+Геннадий ztwc@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий ztwc@gmail.com 101
+Сянцзян; НЕ присутсвуют все три поля: ValueError; entered data: Сянцзян
+Геннадий szpimxei@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий szpimxei@gmail.com 10
+Джигурда ddvn@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда ddvn@mail.ru 101
+40 vdetvumek@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: 40 vdetvumek@gmail.com
+Михаил qyqfsyhig@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил qyqfsyhig@gmail.com 10
+Хенг wnnokxhfi@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг wnnokxhfi@ya.ru 7
+Ярослав lbywftp@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ярослав lbywftp@mail.ru 9
+Земфира vuzzvyh@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира vuzzvyh@gmail.com 9
+Ван lpu@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван lpu@ya.ru 101
+Яочуан yuz@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан yuz@gmail.com 9
+Джамшут rfaxstwl@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут rfaxstwl@ya.ru 7
+Анна anfh 36; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'anfh'} 
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Владимир 79 jwnhvvd@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '79'} 
+Ли omk@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли omk@ya.ru 7
+Земфира42 xsxj@mail.ru 91; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Земфира42'} 
+Степан zhbrwwfigvam 90; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'zhbrwwfigvam'} 
+Ли ati@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли ati@gmail.com 100
+Ли pinle@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли pinle@mail.ru 101
+Ли xltzkbtd 29; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'xltzkbtd'} 
+Степан faydat 39; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'faydat'} 
+Степан nlfigvam 18; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'nlfigvam'} 
+Муммий gthe@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий gthe@mail.ru 99
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Чехова zlwudasr@ya.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова zlwudasr@ya.ru 9
+Земфира666 otxxpaiu@ya.ru 69; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Земфира666'} 
+Муммий xgztkg@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий xgztkg@ya.ru 10
+Сянцзян cvb 34; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'cvb'} 
+Артём ug 19; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ug'} 
+Джамшут lgwoaerkg@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут lgwoaerkg@gmail.com 101
+vcbqv@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: vcbqv@mail.ru
+Джамшут qnju 15; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'qnju'} 
+Волочкова vbw@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова vbw@ya.ru 7
+Чехова xzxezuwdo@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова xzxezuwdo@mail.ru 8
+Михаил kpwnmczyg@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил kpwnmczyg@ya.ru 7
+Сянцзян ddsto@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян ddsto@mail.ru 9
+Земфира jiul 26; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'jiul'} 
+Хенг wdigvfokm@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: Хенг wdigvfokm@mail.ru
+Земфира qimoa@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира qimoa@gmail.com 99
+Владимир ftc@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир ftc@gmail.com 99
+Равшан hjleuh@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан hjleuh@gmail.com 7
+Тролль zlivjohx@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Тролль zlivjohx@ya.ru 100
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Артём grhwwz@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём grhwwz@gmail.com 9
+Чонгкун hcfuvw 87; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hcfuvw'} 
+Равшан xnpgejecni@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Равшан xnpgejecni@ya.ru 10
+Ольга ia@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга ia@gmail.com 8
+Степан ay@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан ay@ya.ru 8
+Джамшут cvhygmszn@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут cvhygmszn@ya.ru 10
+Чонгкун wrmis@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун wrmis@ya.ru 101
+Геннадий 60 qe@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '60'} 
+Ольга; НЕ присутсвуют все три поля: ValueError; entered data: Ольга
+Анна aqkdbkyeb@gmail.com 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна aqkdbkyeb@gmail.com 9
+Анна42 ed@mail.ru 17; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна42'} 
+Бузова xoyg@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова xoyg@mail.ru 7
+Джамшут depp@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут depp@gmail.com 100
+Муммий!!!!1 scqo@mail.ru 94; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Муммий!!!!1'} 
+Владимир grrnerwhl@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир grrnerwhl@ya.ru 101
+Михаил jhmf@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Михаил jhmf@gmail.com 10
+Ли vjarik@ya.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли vjarik@ya.ru 7
+Джамшут 34; НЕ присутсвуют все три поля: ValueError; entered data: Джамшут 34
+Яочуан kcbataacan@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан kcbataacan@ya.ru 100
+Ли jhquyb@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли jhquyb@mail.ru 99
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Геннадий pevprrqns@gmail.com 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий pevprrqns@gmail.com 10
+Хенг qgonstc@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Хенг qgonstc@mail.ru 7
+Джигурда!!!!1 xpomzztfou@mail.ru 64; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда!!!!1'} 
+Анна qcsrfjho@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна qcsrfjho@ya.ru 100
+; НЕ присутсвуют все три поля: ValueError; entered data: 
+Михаил666 kssuv@gmail.com 99; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Михаил666'} 
+Ли ivmjtzik@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли ivmjtzik@ya.ru 101
+Волочкова lulntpfigvam 26; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'lulntpfigvam'} 
+Чонгкун ogoujvw@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун ogoujvw@mail.ru 7
+Волочкова666 qpaiijbtfigvam 55; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Волочкова666'} 
+Чехова twfaumdygs 33; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'twfaumdygs'} 
+Ван42 vpvya@ya.ru 15; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ван42'} 
+Дмитрий py@gmail.com; НЕ присутсвуют все три поля: ValueError; entered data: Дмитрий py@gmail.com
+Пенг qwenv@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Пенг qwenv@gmail.com 101
+Анна666 zvuc@gmail.com 25; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Анна666'} 
+Геннадий 10 sdnri@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '10'} 
+Гнойный fj@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный fj@mail.ru 101
+Муммий vksqce@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий vksqce@mail.ru 8
+Чехова jewi@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова jewi@gmail.com 100
+Волочкова ojzvn@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова ojzvn@mail.ru 8
+Геннадий 77; НЕ присутсвуют все три поля: ValueError; entered data: Геннадий 77
+Земфира lrujfbgjc@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Земфира lrujfbgjc@gmail.com 99
+Сянцзян 97 xangyo@ya.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '97'} 
+Гнойный jproimqazq@gmail.com 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный jproimqazq@gmail.com 7
+Анна hwqdzkt 85; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'hwqdzkt'} 
+Пенг ft@mail.ru; НЕ присутсвуют все три поля: ValueError; entered data: Пенг ft@mail.ru
+Ли rpsbjxcidy@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли rpsbjxcidy@ya.ru 8
+Геннадий jrfxflls@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий jrfxflls@ya.ru 101
+Чонгкун 51 gaugtep@mail.ru; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': '51'} 
+Сянцзян vcnpxppzex@mail.ru 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Сянцзян vcnpxppzex@mail.ru 99
+Геннадий xdrmu@mail.ru 9; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий xdrmu@mail.ru 9
+Джамшут 63; НЕ присутсвуют все три поля: ValueError; entered data: Джамшут 63
+Дмитрий imkjxt@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий imkjxt@gmail.com 100
+Муммий ileyt@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Муммий ileyt@ya.ru 10
+Степан cwpxzmvcys@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Степан cwpxzmvcys@mail.ru 100
+Волочкова ccni@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова ccni@gmail.com 100
+Джамшут; НЕ присутсвуют все три поля: ValueError; entered data: Джамшут
+Хенг rlbvvaq 21; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'rlbvvaq'} 
+Мария ij@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Мария ij@ya.ru 10
+Анна qi@ya.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Анна qi@ya.ru 101
+Джамшут bumqppdlj@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут bumqppdlj@mail.ru 101
+Джамшут jjwgkjuwan@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут jjwgkjuwan@gmail.com 99
+Тролль sw 54; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'sw'} 
+Джамшут qtm@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джамшут qtm@mail.ru 100
+Джигурда42 byuxfoyigk@ya.ru 21; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джигурда42'} 
+Ли ykpenvzfigvam 39; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'ykpenvzfigvam'} 
+98; НЕ присутсвуют все три поля: ValueError; entered data: 98
+Земфира azxq 82; поле email НЕ содержит @ и .(точку): NotEmailError; entered data: {'email': 'azxq'} 
+Ли hpmsrv@mail.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли hpmsrv@mail.ru 10
+Ли yaagqzrje@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ли yaagqzrje@gmail.com 101
+Артём by@gmail.com 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Артём by@gmail.com 101
+Джигурда tvchc@ya.ru 10; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Джигурда tvchc@ya.ru 10
+Яочуан bpn@ya.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Яочуан bpn@ya.ru 8
+Чонгкун sayoo@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чонгкун sayoo@ya.ru 100
+Яочуан42 zihdblwz@mail.ru 98; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Яочуан42'} 
+Ольга hrvxhaieg@mail.ru 101; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ольга hrvxhaieg@mail.ru 101
+Чехова ieiq@gmail.com 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Чехова ieiq@gmail.com 100
+Владимир edx@ya.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Владимир edx@ya.ru 100
+61; НЕ присутсвуют все три поля: ValueError; entered data: 61
+Джамшут666 kjw@gmail.com 25; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Джамшут666'} 
+Гнойный rmta@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный rmta@gmail.com 99
+Бузова uri@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Бузова uri@mail.ru 8
+Гнойный dbvk@mail.ru 100; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Гнойный dbvk@mail.ru 100
+Ван rgjaqkqs@gmail.com 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Ван rgjaqkqs@gmail.com 8
+Волочкова mnu@mail.ru 8; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Волочкова mnu@mail.ru 8
+Геннадий coyuq@gmail.com 99; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Геннадий coyuq@gmail.com 99
+Ли42 vqffrrlfh@gmail.com 99; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Ли42'} 
+Тролль666 se@mail.ru 52; поле имени содержит НЕ только буквы: NotNameError; entered data: {'name': 'Тролль666'} 
+Дмитрий xayinimkz@mail.ru 7; поле возраст НЕ является числом от 10 до 99: ValueError; entered data: Дмитрий xayinimkz@mail.ru 7
