@@ -40,11 +40,14 @@ SELECT name, price FROM Courses ORDER BY price DESC LIMIT 5;
 
 3. Написать один (!) запрос, который выведет одновременно список из имен трёх самых молодых студентов, имен трёх самых старых учителей и названий трёх самых продолжительных курсов.
 
-       SELECT name FROM Students ORDER BY age LIMIT 3
-       UNION 
-       SELECT name FROM Teachers ORDER BY age DESC LIMIT 3
-       UNION
-       SELECT name FROM Courses ORDER BY duration DESC LIMIT 3;
+       SELECT Students.name AS student_name, Teachers.name AS teacher_name,
+       Courses.name AS course_name
+       FROM Courses
+       JOIN Teachers ON Teachers.id = Courses.teacher_id
+       JOIN Subscriptions ON Subscriptions.course_id = Courses.id
+       JOIN Students ON Subscriptions.student_id = Students.id
+       ORDER BY student_name ASC, teacher_name DESC, Courses.duration DESC
+       LIMIT 3;
 
 
 
