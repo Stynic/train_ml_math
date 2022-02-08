@@ -49,6 +49,14 @@ SELECT name, price FROM Courses ORDER BY price DESC LIMIT 5;
        ORDER BY student_name ASC, teacher_name DESC, Courses.duration DESC
        LIMIT 3;
 
++---------------------------+-----------------------------------------+-----------------------------------------+
+| student_name              | teacher_name                            | course_name                             |
++---------------------------+-----------------------------------------+-----------------------------------------+
+| Кутяков Ефрем | Яржемковский Дмитрий | Cinema4D                                |
+| Кутяков Ефрем | Карявин Ерофей             | Рекламная графика       |
+| Кутепов Ефим   | Чубаров Еремей             | Управление командами |
++---------------------------+-----------------------------------------+-----------------------------------------+
+3 rows in set (0.01 sec)
 
 
 
@@ -97,20 +105,48 @@ mysql> SELECT SUM(duration) * 60 AS amount_minutes FROM Courses WHERE type = "PR
 Домашнее задание к уроку 17.6:
 1. Напишите запрос, который выводит сумму, сколько часов должен в итоге проучиться каждый студент (сумма длительности всех курсов на которые он подписан). В результате запрос возвращает две колонки: Имя Студента — Кол-во часов.
 
+    SELECT Students.name as student_name, SUM(Courses.duration) as count_hours FROM Students
+    JOIN Subscriptions ON Subscriptions.student_id = Students.id
+    JOIN Courses ON Subscriptions.course_id = Courses.id
+    GROUP BY Students.name;
+    
++-----------------------------------------+-------------+
+| student_name                            | count_hours |
++-----------------------------------------+-------------+
+| Амбражевич Порфирий   |          13 |
+| Жариков Афанасий         |          15 |
+| Бойков Максим               |          18 |
+| Гайденко Илья               |          22 |
+| Ядрихинский Егор         |          18 |
+| Янпольский Михей         |          18 |
+| Фуриков Эрнст               |          19 |
+| Носов Макар                   |          20 |
 
-### Напишите Ваш запрос здесь ###
-
+etc
 
 2. Напишите запрос, который посчитает для каждого учителя средний возраст его учеников.
 В результате запрос возвращает две колонки: Имя Учителя — Средний Возраст Учеников.
+    
+    SELECT Teachers.name as teacher_name, AVG(Students.age) FROM Teachers
+    JOIN Courses ON Teachers.id = Courses.teacher_id
+    JOIN Subscriptions ON Subscriptions.course_id = Courses.id
+    JOIN Students ON Students.id = Subscriptions.student_id
+    GROUP BY teacher_name;
+
++---------------------------------------------+-------------------+
+| teacher_name                                | AVG(Students.age) |
++---------------------------------------------+-------------------+
+| Ягешев Сидор                     |           29.3333 |
+| Яглинцев Владислав         |           28.5714 |
+| Колиух Вацлав                   |           32.3333 |
+
+etc
 
 
-### Напишите Ваш запрос здесь ###
 
 
 3. Напишите запрос, который выводит среднюю зарплату учителей для каждого типа курса (Дизайн/Программирование/Маркетинг и т.д.) В результате запрос возвращает две колонки: Тип Курса – Средняя зарплата.
 
-
-### Напишите Ваш запрос здесь ###
-
-
+    SELECT Courses.type as type_course, AVG(Teachers.salary) as salary_teacher FROM Courses
+    JOIN Teachers ON Teachers.id = Courses.teacher_id
+    GROUP BY type_course;
