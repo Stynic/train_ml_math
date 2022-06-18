@@ -3,3 +3,6 @@
 *checkpoint
 *.jpg
 .idea/
+ml/low_level/module_9/catboost_info/catboost_training.json
+*.tsv
+*.tfevents
